@@ -1,0 +1,22 @@
+{
+  "name": "epts",
+  "version": "1.0.0",
+  "description": "ePTS Timesheet",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anbazhaganraju/ePTS.git"
+  },
+  "keywords": [
+    "ePTS"
+  ],
+  "author": "Anbu R",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anbazhaganraju/ePTS/issues"
+  },
+  "homepage": "https://github.com/anbazhaganraju/ePTS#readme"
+}
